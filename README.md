@@ -14,8 +14,6 @@ and remembers the chat history and recent conversations.
 It uses embeddings and vector stores to send the relevant information to the LLM prompt. Also provides a chat interface
 via the terminal using stdin and stdout. Press `q` to escape the chat window.
 
-I wrote an article which explores some of the concepts here, as well as walks through building each of the scripts.
-[Can read that here](https://medium.com/@ssmaameri/building-a-multi-document-reader-and-chatbot-with-langchain-and-chatgpt-d1864d47e339)
 
 
 ## Getting started
@@ -54,4 +52,4 @@ need to dig deeper and explore the concepts and ideas in more detail. Possibilit
 templates, using different LLMs which can accept more tokens and context lengths, creating an agent to refine the results,
 and whatever else you can think of 🙂
 
-![Screenshot 2023-05-20 at 12.06.43 PM.png](./img/app-screenshot.png)
+![image](https://github.com/vgondepatil/pdf-chat-ai-bot/assets/67214045/36f36d4d-34a7-4b5a-a31d-bc798ac261b4)
